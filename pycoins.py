@@ -796,7 +796,7 @@ while cmd != 'q':
     elif cmd == '11':
         BinanceAPIThread.display()
 
-    elif cmd == 'Q':
+    elif cmd == 'q':
         [t.stop() for t in Threads]
         [t.join() for t in Threads]
         print("\nThanks for playing. Bye.")
