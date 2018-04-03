@@ -2,7 +2,7 @@
 new coins listing in exchange notification service
 
 this a python script keep track new coins listing in different top#10 exchange
-when new coins listed it will play a .wav files for u
+when new coins listed it will play a .wav files
 
 install:  
 pip install -r requirements.txt
