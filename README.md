@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 commnads:  
 0: start (first run)  
-[1..10] : display last update exchange information  
+[1..11] : display last update exchange information  
 q: exit  
 
 i will try to update regularly
